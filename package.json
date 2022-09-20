@@ -1,5 +1,5 @@
 {
-  "name": "@fidme/react-native-device-brightness",
+  "name": "react-native-device-brightness",
   "version": "1.3.1",
   "description": "Screen brightness adjustment tool for ReactNative iOS and Android. ",
   "main": "index.js",
